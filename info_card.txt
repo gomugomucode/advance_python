@@ -1,0 +1,8 @@
+--- Bio Data ---
+
+Name   : Anupam Baral
+Age    : 20
+Hobbies:
+ - air
+ - bike
+ - car
